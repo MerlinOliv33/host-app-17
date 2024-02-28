@@ -1,0 +1,1 @@
+declare module 'mfeApp17/Component';
